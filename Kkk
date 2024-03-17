@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <div>
+            <h1>Meu nome é Jhonatan</h1>
+            <nav> 
+                <ul> 
+                    <li><a href="">sobre</a</li>
+                    <li><a href="">experiência</a></li>
+                    <li><a href="">Desenvolvimento</a></li>
+                    <li><a href="">projeto</a></li>
+                    <li><a href="">extracurriculares</a></li>
+                    <li><a href="">contato</a></li>
+                </ul>
+            </nav>
+            <nav>
+                <ul> 
+                    <li><a href="https://github.com/"><img src="./image.png" alt=""></a</li>
+                    <li><a href="https://www.google.com/intl/pt-BR/gmail/about/"><img src="./at.png" alt=""></a></li>
+                    <li><a href="https://www.instagram.com/"><img src="./instagram-logo.png" alt=""></a></li>
+                    <li><a href="https://br.linkedin.com/"><img src="./linkedin-logo.png" alt=""></a></li>
+                </ul>       
+            </nav>
+            <nav>
+                <p>Nascido em Hong Kong, estudando a bordo na Nova Zelândia e me aventurado brevemente na Austrália, estou atualmente iniciando um novo capítulo em Los Angeles, Califórnia, cursando Bacharelado em Ciências da Computação na <a href="http://www.etg.se.df.gov.br/">Escola Tecnica Guará</a>
+                </p>
+                <p>
+                    Este site é orgulhosamente premiado com o Prêmio Especial Kudos CSSDA (CSS Design Awards) e o Prêmio Melhor UI, UX e Inovação . 
+                </p>
+                <ul>
+                    <li><a href="https://www.cssdesignawards.com/"><img src="./download.png" alt=""width=100px></a></li>
+                </ul>
+
+
+            </nav>
+            
+        </div>
+
+    </header>
+    <main>
+        <div>
+            <h1>Onde Trabalhei</h1>
+            <h2>Serato</h2>
+            <p>Engenheiro de Software Júnior - Estagiário</p>
+
+            <p>Contribuiu para o desenvolvimento do Serato Visualizer , criador de vídeos para produtores musicais, em uma equipe multifuncional</p>
+           
+            <p>Manutenção, desenvolvimento e pesquisa de produtos de software</p>
+
+            <p>Análise, design, implementação, testes de desenvolvedor e documentação técnica de software</p>
+
+            <p>Auxiliou na estimativa e planejamento de grandes projetos de software</p>
+
+            <h3>Viagem de energia</h3>
+            <p>Desenvolvedor Web</p>
+
+            <p>Site redesenvolvido da Power Trip usando HTML, CSS e JavaScript</p>
+
+            <p>Estabeleceu uma ligação proativa com o CEO e traduziu as discussões em soluções de design inavadoras</p>
+
+            <p>Produziu prototipos usando Figma e validou decisões de design por meio de analise competitiva de sites e testes de usuários</p>
+
+            <p>implementação de web design responsivo e compatibilidade testa entre navegadores e dispositivos</p>
+
+            <p>Meu Curriculo:</p>
+            <a href="c:\Users\Jhonatan\Documents\Meus Documentos\Vale Transporte.pdf" target="_blank">Baixar PDF</a>
+        </div>
+        <div>
+            <h2>Coisas que eu fiz</h2>
+            <h3>Meu projeto</h3>
+            <p>Inicio do meu portfolio</p>
+            <img src="" alt=""width=200px>
+            <br><a href="https://www.facebook.com/">facebook</a>
+        </div>
+    </main>
+
+
+    <footer>
+
+    </footer>
+    
+</body>
+</html>
