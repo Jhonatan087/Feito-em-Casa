@@ -9,7 +9,7 @@
 <body>
     <header>
         <div>
-            <h1>Meu nome é Jhonatan</h1>
+            <h1>M</h1>
             <nav> 
                 <ul> 
                     <li><a href="">sobre</a</li>
@@ -18,17 +18,13 @@
                     <li><a href="">projeto</a></li>
                     <li><a href="">extracurriculares</a></li>
                     <li><a href="">contato</a></li>
-                </ul>
-            </nav>
-            <nav>
-                <ul> 
-                    <li><a href="https://github.com/"><img src="./image.png" alt=""></a</li>
-                    <li><a href="https://www.google.com/intl/pt-BR/gmail/about/"><img src="./at.png" alt=""></a></li>
+                    <li><a href="https://github.com/"><img src="./github-logo.png"></a</li>
+                    <li><a href="https://www.google.com/intl/pt-BR/gmail/about/"><img src="./envelope.png" alt=""></a></li>
                     <li><a href="https://www.instagram.com/"><img src="./instagram-logo.png" alt=""></a></li>
-                    <li><a href="https://br.linkedin.com/"><img src="./linkedin-logo.png" alt=""></a></li>
-                </ul>       
-            </nav>
-            <nav>
+                    <li><a href="https://br.linkedin.com"><img src="./linkedin-logo.png" alt=""></a></li>
+                </ul>  
+            <nav>  
+            <div>
                 <p>Nascido em Hong Kong, estudando a bordo na Nova Zelândia e me aventurado brevemente na Austrália, estou atualmente iniciando um novo capítulo em Los Angeles, Califórnia, cursando Bacharelado em Ciências da Computação na <a href="http://www.etg.se.df.gov.br/">Escola Tecnica Guará</a>
                 </p>
                 <p>
@@ -39,7 +35,7 @@
                 </ul>
 
 
-            </nav>
+            <div>
             
         </div>
 
@@ -73,10 +69,21 @@
             <a href="c:\Users\Jhonatan\Documents\Meus Documentos\Vale Transporte.pdf" target="_blank">Baixar PDF</a>
         </div>
         <div>
-            <h2>Coisas que eu fiz</h2>
-            <h3>Meu projeto</h3>
-            <p>Inicio do meu portfolio</p>
-            <img src="" alt=""width=200px>
+            <h2>Coisas que eu projetei.</h2>
+            <h3>Atenção plena</h3>
+
+            <p class="p1">Um aplicativo móvel de prova de conceito que ajuda pessoas com transtornos alimentares a reconstruir seu relacionamento com a comida por meio de diário alimentar, monitoramento de humor e alimentação consciente.</p>
+
+            <p>Competição UNSW Digital Makers 2023 - Prêmio do Júri por Impacto Socia</p>
+
+            <p>Protótipo Figma</p>
+
+            <img src="c:\Users\aluno\Pictures\Nova pasta\pngtree-black-mobile-phone-png-image_7097040.png" alt="c:\Users\aluno\Pictures\Nova pasta\pngtree-black-mobile-phone-png-image_7097040.png"width=200px>
+            
+            <img src="c:\Users\aluno\Pictures\Nova pasta\pngtree-black-mobile-phone-png-image_7097040.png" alt="c:\Users\aluno\Pictures\Nova pasta\pngtree-black-mobile-phone-png-image_7097040.png"width=200px>
+
+            <img src="c:\Users\aluno\Pictures\Nova pasta\pngtree-black-mobile-phone-png-image_7097040.png" alt="c:\Users\aluno\Pictures\Nova pasta\pngtree-black-mobile-phone-png-image_7097040.png"width=200px>
+
             <br><a href="https://www.facebook.com/">facebook</a>
         </div>
     </main>
